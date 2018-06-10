@@ -1,0 +1,7 @@
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & python "c:/Users/Bhagavath Singh/Documents/PythonL1/2.py"
+0
+1
+8
+27
+64
+125

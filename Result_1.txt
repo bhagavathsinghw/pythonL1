@@ -1,0 +1,5 @@
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & python "c:/Users/Bhagavath Singh/Documents/PythonL1/1.py"
+[0, 1, 2, 3]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]

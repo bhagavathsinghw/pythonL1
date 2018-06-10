@@ -1,0 +1,15 @@
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/3.py"
+Enter String :elelelele
+5
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/3.py"
+Enter String :hai
+False
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/3.py"
+Enter String :23ejrjre
+True
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/3.py"
+Enter String :eee
+False
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/3.py"
+Enter String :^Z
+Error
