@@ -1,0 +1,18 @@
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/8.py"
+bookstore
+shelf : New Arrivals
+book : -> category : COOKING
+--:> title : Everyday Italian
+--:> author : Giada De Laurentiis
+--:> year : 2005
+--:> price : 30.00
+book : -> category : CHILDREN
+--:> title : Harry Potter
+--:> author : J K. Rowling
+--:> year : 2005
+--:> price : 29.99
+book : -> category : WEB
+--:> title : Learning XML
+--:> author : Erik T. Ray
+--:> year : 2003
+--:> price : 39.95
