@@ -1,0 +1,30 @@
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:32
+NetMask is : 255.255.255.255
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:31
+NetMask is : 255.255.255.254
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:30
+NetMask is : 255.255.255.252
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:22
+NetMask is : 255.255.252.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:20
+NetMask is : 255.255.240.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:15
+NetMask is : 255.254.0.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:9
+NetMask is : 255.128.0.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:1
+NetMask is : 128.0.0.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:0
+NetMask is : 0.0.0.0
+PS C:\Users\Bhagavath Singh\Documents\PythonL1> & C:/Python27/python.exe "c:/Users/Bhagavath Singh/Documents/PythonL1/7.py"
+Enter Prefix:40
+Prefix not valid
